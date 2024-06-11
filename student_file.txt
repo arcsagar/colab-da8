@@ -1,10 +1,11 @@
-name:sagar , batch: DA8-1
+Name:sagar , batch: DA8-1
 
 Name:sagar , batch: DA-8.2
 
-name:prasanna , batch: DA-8
+Name:prasanna , batch: DA-8
 
-name:sagar_moon ,batch: DA_8
+Name:sagar_moon ,batch: DA_8
 
-name : Rajwanshi,batch:-DA8
-name: Krunal, Batch : DA8
+Name : Rajwanshi,batch:-DA8
+
+Name: Krunal, Batch :-DA8   
