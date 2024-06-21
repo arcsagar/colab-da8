@@ -1,0 +1,41 @@
+"id","comp_name","car_model","fuel_type","price","warranty_years","unit_sold","safe"
+1,"MG","Hector","Petrol",1400000,4,6000,True
+2,"Maruti Suzuki","Swift","Petrol",550000,2,15000,false
+3,"Hyundai","Creta","Diesel",1000000,3,12000,false
+4,"Tata","Nexon","Petrol",800000,2,18000,True
+5,"Mahindra","XUV500","Diesel",1500000,3,5000,True
+6,"Honda","City","Petrol",1200000,4,10000,false
+7,"Toyota","Innova","Diesel",1800000,5,8000,True
+8,"Ford","Ecosport","Petrol",900000,3,7000,false
+9,"Renault","Kwid","Petrol",450000,2,20000,True
+10,"Kia","Seltos","Diesel",1300000,3,14000,false
+11,"MG","Hector","Petrol",1400000,4,6000,True
+12,"Toyota","Innova","Diesel",1800000,5,8000,True
+13,"Ford","Ecosport","Petrol",900000,3,7000,false
+14,"Renault","Kwid","Petrol",450000,2,20000,True
+15,"Kia","Seltos","Diesel",1300000,3,14000,false
+16,"MG","Hector","Petrol",1400000,4,6000,True
+17,"Maruti Suzuki","Swift","Petrol",550000,2,15000,false
+18,"Hyundai","Creta","Diesel",1000000,3,12000,false
+19,"Tata","Nexon","Petrol",800000,2,18000,True
+20,"Mahindra","XUV500","Diesel",1500000,3,5000,True
+21,"Honda","City","Petrol",1200000,4,10000,false
+22,"Honda","City","Petrol",1200000,4,10000,false
+23,"Toyota","Innova","Diesel",1800000,5,8000,True
+24,"Ford","Ecosport","Petrol",900000,3,7000,false
+25,"Renault","Kwid","Petrol",450000,2,20000,True
+26,"Kia","Seltos","Diesel",1300000,3,14000,false
+27,"MG","Hector","Petrol",1400000,4,6000,True
+28,"Toyota","Innova","Diesel",1800000,5,8000,True
+29,"Ford","Ecosport","Petrol",900000,3,7000,false
+30,"Renault","Kwid","Petrol",450000,2,20000,True
+31,"Kia","Seltos","Diesel",1300000,3,14000,false
+32,"MG","Hector","Petrol",1400000,4,6000,True
+33,"Maruti Suzuki","Swift","Petrol",550000,2,15000,false
+34,"Hyundai","Creta","Diesel",1000000,3,12000,false
+35,"Tata","Nexon","Petrol",800000,2,18000,True
+36,"Mahindra","XUV500","Diesel",1500000,3,5000,True
+37,"Honda","City","Petrol",1200000,4,10000,false
+38,"Honda","City","Petrol",1200000,4,10000,false
+39,"Toyota","Innova","Diesel",1800000,5,8000,True
+40,"Ford","Ecosport","Petrol",900000,3,7000,false
